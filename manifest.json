@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Trello Music",
+  "version": "1.0",
+  "description": "Use Trello to make music",
+  "content_scripts": [
+    {
+      "matches": ["https://trello.com/b/*/t*"],
+      "js": ["jquery.js", "background.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "audio/crash.wav",
+    "audio/highhat.wav",
+    "audio/kick.wav",
+    "audio/snare.wav"
+  ]
+}
