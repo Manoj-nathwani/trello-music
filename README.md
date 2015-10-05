@@ -21,3 +21,6 @@ See video <a href="https://twitter.com/hackferencebrum/status/650676918732357632
 - Follow the instructions <a href="https://developer.chrome.com/extensions/getstarted#unpacked" target="_blank">here</a> on adding an unofficial extension to chrome
 - Make a trello board using the above images as example, or use my template <a href="https://trello.com/b/SqUOyKvS/trello-music" target="_blank">here</a>
 - Hit the big play button!
+
+# Warning
+- This is in no way a completed project. It's just the minimal viable hack to show what I built.
