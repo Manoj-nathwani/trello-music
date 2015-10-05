@@ -1,5 +1,5 @@
 # trello-music
-- A chrome extension which hacks trello into a music sequencer
+- A chrome extension which converts trello into a music sequencer
 - Made at the <a href="https://twitter.com/hackferencebrum" target="_blank">Hackference 2015</a> hackathon
 
 ![Alt text for your video](http://i.imgur.com/k0GxGFQ.png)
