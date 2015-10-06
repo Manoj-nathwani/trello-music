@@ -5,7 +5,7 @@
   "description": "Use Trello to make music",
   "content_scripts": [
     {
-      "matches": ["https://trello.com/b/*/t*"],
+      "matches": ["https://trello.com/b/*/*"],
       "js": ["jquery.js", "background.js"]
     }
   ],
